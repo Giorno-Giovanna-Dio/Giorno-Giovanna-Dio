@@ -71,7 +71,11 @@ A **JavaScript web app** that recommends how much fish you can safely eat weekly
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giorno-Giovanna-Dio&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Giorno-Giovanna-Dio&theme=tokyonight)
 
-<img src="https://lottie.host/0ed68368-527a-4816-be69-fc07fe898c51/xTroTtj8QB.lottie" width="300"/>
+<iframe src="https://lottie.host/embed/0ed68368-527a-4816-be69-fc07fe898c51/xTroTtj8QB.lottie"
+        width="300"
+        height="300"
+        style="border:none;overflow:hidden;"
+        title="Lottie animation"></iframe>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%F0%9F%9A%80+Learning+in+Public;%F0%9F%8C%88+Turning+Ideas+into+Demos;%E2%98%95+Always+Coding+with+Coffee&center=true&vCenter=true&width=450)](https://git.io/typing-svg)
 
 ---
