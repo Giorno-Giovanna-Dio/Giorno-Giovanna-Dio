@@ -23,7 +23,7 @@ It helps developers discover new open-source projects efficiently, with real-tim
 ### 🚀 [NASA Hackathon 2025](https://github.com/Giorno-Giovanna-Dio/nasa-hackathon-2025)
 Created for the **NASA Space Apps Hackathon**, built with **Python** + **JavaScript**,  
 exploring how open data and creative teamwork can solve real-world space challenges.  
-Also check out the [Web Version](https://github.com/weifish0/NASA-Space-APP-Hackathon2025-Web)!
+Also check out the [APP Demo](https://nasa-space-app-hackathon2025-web.vercel.app/)!
 
 ### 🎮 [Color Game](https://github.com/Giorno-Giovanna-Dio/color-game)
 A playful mini-game coded in **Python** — great for testing your color sense and having a bit of fun between coding sessions!
