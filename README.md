@@ -9,6 +9,7 @@ Coding for me isn’t just about syntax — it’s about **turning imagination i
 ## 🚀 What I’m Passionate About
 - Building **AI tools and backend APIs**
 - Experimenting with **Redis**, **PHP**, and **Jenkins**
+- Swift to get a feel of Liquid Glass Effect
 - Learning how to connect every layer of web development (frontend ↔ backend ↔ infra)
 - Sharing knowledge and collaborating with other curious minds 💡
 
