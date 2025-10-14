@@ -1,0 +1,31 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 每天自動執行（UTC 00:00）
+  workflow_dispatch:      # 可手動觸發
+  push:
+    branches:
+      - main              # 每次 push main 也會觸發
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake.svg from GitHub contribution graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Giorno-Giovanna-Dio  # ← 你的 GitHub 帳號
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Push generated files
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
