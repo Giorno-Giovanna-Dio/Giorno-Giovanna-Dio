@@ -96,7 +96,11 @@ A modern **SwiftUI + CoreData** app designed to record and visualize spending us
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Giorno-Giovanna-Dio/Giorno-Giovanna-Dio/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Giorno-Giovanna-Dio/Giorno-Giovanna-Dio/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Giorno-Giovanna-Dio/Giorno-Giovanna-Dio/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Giorno-Giovanna-Dio/Giorno-Giovanna-Dio/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
 </p>
 
 ---
