@@ -9,8 +9,8 @@ Coding for me isn’t just about syntax — it’s about **turning imagination i
 ## 🚀 What I’m Passionate About
 - Building **AI tools and backend APIs**
 - Experimenting with **Redis**, **PHP**, and **Jenkins**
-- Swift to get a feel of Liquid Glass Effect
-- Learning how to connect every layer of web development (frontend ↔ backend ↔ infra)
+- Using **SwiftUI** to explore creative UI effects (like Liquid Glass 💧)
+- Connecting every layer of web development: **frontend ↔ backend ↔ infra**
 - Sharing knowledge and collaborating with other curious minds 💡
 
 ---
@@ -19,27 +19,41 @@ Coding for me isn’t just about syntax — it’s about **turning imagination i
 
 ### 🧭 [OpenSource Compass](https://github.com/Giorno-Giovanna-Dio/opensource-compass)
 AI-assisted GitHub project recommender built with **PHP + Redis + Jenkins**.  
-It helps developers discover new open-source projects efficiently, with real-time caching for performance.  
+It helps developers discover open-source projects efficiently with real-time caching and analytics.
+
+---
 
 ### 🚀 [NASA Hackathon 2025](https://github.com/Giorno-Giovanna-Dio/nasa-hackathon-2025)
-Created for the **NASA Space Apps Hackathon**, built with **Python** + **JavaScript**,  
-exploring how open data and creative teamwork can solve real-world space challenges.  
-Also check out the [APP Demo](https://nasa-space-app-hackathon2025-web.vercel.app/)!
+Created for **NASA Space Apps Challenge**, combining **Python + JavaScript + open data**  
+to explore how technology and creativity can solve real-world challenges.  
+📱 [Live Demo](https://nasa-space-app-hackathon2025-web.vercel.app/)
+
+---
 
 ### 🎮 [Color Game](https://github.com/Giorno-Giovanna-Dio/color-game)
-A playful mini-game coded in **Python** — great for testing your color sense and having a bit of fun between coding sessions!
+A mini-game coded in **Python**, designed to test your color sense and reaction speed 🎨
+
+---
 
 ### 🐟 [Fish Advisor](https://github.com/Giorno-Giovanna-Dio/fish-advisor)
-A **JavaScript web app** that recommends how much fish you can safely eat weekly 🐠  
-(yes, it’s health-conscious coding 😄)
+A **JavaScript health app** that calculates safe fish intake per week 🐠  
+(Yes — coding meets nutrition 💪)
+
+---
+
+### 💰 [FinanceApp (SwiftUI)](https://github.com/Giorno-Giovanna-Dio/SWIFTUI_financeApp)
+A modern **SwiftUI + CoreData** app designed to record and visualize spending using **voice input**.  
+🔊 Integrated with Apple Speech Framework for expense logging by voice.  
+🪄 Features planned: ChartKit analytics + Siri integration + WidgetKit dashboard.
 
 ---
 
 ## 🧰 Tech Stack
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
@@ -52,10 +66,10 @@ A **JavaScript web app** that recommends how much fish you can safely eat weekly
 ---
 
 ## 🌱 Currently Learning
-🌀 Exploring **Go** for backend performance and system design  
-⚙️ Refining my **web architecture** skills and learning how to scale APIs  
-🎨 Strengthening my **frontend creativity** with React and Vue  
-☀️ Always experimenting, always sharing, always growing!
+🌀 Diving deeper into **Go** for backend scalability  
+⚙️ Mastering **system design** and distributed architecture  
+🎨 Enhancing **frontend creativity** with SwiftUI, React, and Vue  
+☀️ Always experimenting, always shipping, always sharing!
 
 ---
 
@@ -68,27 +82,27 @@ A **JavaScript web app** that recommends how much fish you can safely eat weekly
 
 ## 📊 GitHub at a Glance
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giorno-Giovanna-Dio&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giorno-Giovanna-Dio&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Giorno-Giovanna-Dio&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Giorno-Giovanna-Dio&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giorno-Giovanna-Dio&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Giorno-Giovanna-Dio&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Giorno-Giovanna-Dio/Giorno-Giovanna-Dio/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake"/>
+</p>
+
+---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%F0%9F%9A%80+Learning+in+Public;%F0%9F%8C%88+Turning+Ideas+into+Demos;%E2%98%95+Always+Coding+with+Coffee&center=true&vCenter=true&width=450)](https://git.io/typing-svg)
 
 ---
 
 ✨ *“I code with curiosity, build with intention, and share with joy.”* 🌈
-<!--
-**Giorno-Giovanna-Dio/Giorno-Giovanna-Dio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
