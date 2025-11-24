@@ -12,6 +12,7 @@ Coding for me isn’t just about syntax — it’s about **turning imagination i
 - Using **SwiftUI** to explore creative UI effects (like Liquid Glass 💧)
 - Connecting every layer of web development: **frontend ↔ backend ↔ infra**
 - Sharing knowledge and collaborating with other curious minds 💡
+- Building creative and useful website
 
 ---
 
