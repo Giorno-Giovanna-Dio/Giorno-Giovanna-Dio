@@ -28,7 +28,7 @@ It helps developers discover open-source projects efficiently with real-time cac
 Created for **NASA Space Apps Challenge**, combining **Python + JavaScript + open data**  
 to explore how technology and creativity can solve real-world challenges.  
 📱 [Live Demo](https://nasa-space-app-hackathon2025-web.vercel.app/)
-
+Finalist
 ---
 
 ### 🎮 [Color Game](https://github.com/Giorno-Giovanna-Dio/color-game)
