@@ -1,53 +1,100 @@
-# David Chung
+# Hi, I'm David Chung 👋
 
-Full-stack learner · Creative builder · Startup-minded developer
+### Full-stack developer building AI-powered products, backend systems, and creative digital experiences.
 
-I enjoy turning ideas into working products — from weekend experiments to full prototypes.
+I build small AI products that turn messy workflows into usable tools — from AI-assisted developer tools and backend APIs to mobile apps and experimental web experiences.
+
+**Let's connect:** [Portfolio](https://davidchung.vercel.app/) · [Email](mailto:dcetpn@gmail.com) · [GitHub](https://github.com/Giorno-Giovanna-Dio)
+
+I'm open to internship opportunities, hackathons, and interesting product collaborations.
 
 ---
 
-## About
+## Quick Facts
 
-- Building **AI tools** and **backend APIs**
-- Exploring **Redis**, **PHP**, and **Jenkins** for scalable systems
-- Creating UI with **SwiftUI**, **React**, and **Vue**
-- Connecting every layer: frontend ↔ backend ↔ infrastructure
+- 🎓 University student · Software developer
+- 🔭 **Currently building:** AI tools, backend APIs, and full-stack product prototypes
+- 🌱 **Currently learning:** Go and system design
+- 💡 **Interested in:** AI product development, distributed systems, SwiftUI
+- 🤝 **Open to:** Collaboration, hackathons, and internships
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [OpenSource Compass](https://github.com/Giorno-Giovanna-Dio/opensource-compass) | AI-assisted GitHub project recommender with real-time caching | PHP, Redis, Jenkins |
-| [NASA Hackathon 2025](https://github.com/Giorno-Giovanna-Dio/nasa-hackathon-2025) | NASA Space Apps Challenge — [Live Demo](https://nasa-space-app-hackathon2025-web.vercel.app/) · Finalist | Python, JavaScript |
-| [Color Game](https://github.com/Giorno-Giovanna-Dio/color-game) | Mini-game to test color sense and reaction speed | Python |
-| [Fish Advisor](https://github.com/Giorno-Giovanna-Dio/fish-advisor) | Weekly safe fish intake calculator | JavaScript |
-| [FinanceApp](https://github.com/Giorno-Giovanna-Dio/SWIFTUI_financeApp) | Voice-powered expense tracker with CoreData | SwiftUI, CoreData |
+### [YC Batch Brief](https://yc-batch-ai.vercel.app/)
+
+See what a YC batch is doing before you open a single company page.
+
+**Tech:** Next.js · TypeScript · Tailwind CSS · Claude / GPT  
+**Highlights:** Regex-based batch analysis · zero LLM calls for theme assignment · live deployment  
+**Links:** [Live Demo](https://yc-batch-ai.vercel.app/) · [Portfolio](https://davidchung.vercel.app/)
 
 ---
 
-## Tech Stack
+### [ezGet.ai](https://ezget.ai/)
+
+Describe who to reach — the agent finds profiles, qualifies leads, and drafts the opening DM.
+
+**Tech:** Laravel · PHP · Browser-Use · Docker · AWS EC2  
+**Highlights:** 3-stage Instagram outreach pipeline · CRM with workspace ACL · production deployment  
+**Links:** [Live Site](https://ezget.ai/) · [Portfolio](https://davidchung.vercel.app/)
+
+---
+
+### [Idea Palette](https://davidchung.vercel.app/)
+
+Mash two real products into one narrow weekend MVP spec worth building.
+
+**Tech:** Next.js · TypeScript · Google Gemini  
+**Highlights:** Public beta shipped in 24h · structured JSON output · rate limits and fallbacks  
+**Links:** [Portfolio](https://davidchung.vercel.app/)
+
+---
+
+### [OpenSource Compass](https://github.com/Giorno-Giovanna-Dio/opensource-compass)
+
+Help developers discover open-source projects efficiently with AI-assisted recommendations.
+
+**Tech:** PHP · Redis · Jenkins  
+**Highlights:** Real-time caching · CI/CD pipeline · AI recommendation engine  
+**Links:** [Repository](https://github.com/Giorno-Giovanna-Dio/opensource-compass)
+
+---
+
+## Achievements
+
+- 🥇 **Finalist** — [NASA Space Apps Challenge 2025](https://github.com/Giorno-Giovanna-Dio/nasa-hackathon-2025) · [Live Demo](https://nasa-space-app-hackathon2025-web.vercel.app/)
+- 🚀 Shipped multiple AI products from idea to live deployment in days
+- 🛠 Built full-stack systems with Redis caching, Jenkins CI, and production-grade LLM integrations
+
+---
+
+## Current Focus
+
+- Building scalable backend services with **Go**
+- Shipping AI-assisted tools with production reliability — timeouts, fallbacks, and rate limits
+- Learning **system design** and distributed architecture
+- Improving product design and frontend experience with SwiftUI, React, and Vue
+
+---
+
+## Skills
 
 **Languages**  
-Swift · Python · JavaScript · Go · PHP
+TypeScript · JavaScript · Python · PHP · Swift · Go
 
-**Frontend**  
-React · Vue · SwiftUI · Tailwind CSS · Vite
+**Backend & Infrastructure**  
+Node.js · Laravel · Express · Django · Redis · Docker · Jenkins · AWS
 
-**Backend & Data**  
-Node.js · Express · Django · Redis · PostgreSQL · MySQL · MongoDB · Supabase
+**Frontend & Mobile**  
+React · Next.js · Vue · SwiftUI · Tailwind CSS
 
-**Tools & DevOps**  
-Docker · Jenkins · Git · Xcode · Figma · Vercel · Render
+**Databases**  
+PostgreSQL · MySQL · MongoDB · Supabase
 
----
-
-## Currently Learning
-
-- **Go** for backend scalability
-- **System design** and distributed architecture
-- Frontend craft with SwiftUI, React, and Vue
+**Tools**  
+Git · Vercel · Figma · Xcode · Render
 
 ---
 
